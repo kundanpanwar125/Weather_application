@@ -1,16 +1,13 @@
 # wheather_application
 
-A new Flutter project.
+live demo link :-  https://weather-application-83c7f.web.app/ 
 
-## Getting Started
+Images 
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/user-attachments/assets/f1040947-dce7-4ebc-9eb9-a12df4bf288a)
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://github.com/user-attachments/assets/08adf12a-14df-4d40-9f9d-15706af2e7ef)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://github.com/user-attachments/assets/4e7d84b6-ba0f-48d1-8871-829a6a283f29)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
